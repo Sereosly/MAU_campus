@@ -1,0 +1,6 @@
+@import "reset.css";
+@import "variables.css";
+
+.app{
+  min-height: 100vh;
+}
