@@ -1,10 +1,10 @@
-import {Main} from "../pages/main";
+import { AppRouter } from "./providers/router";
 
 function App() {
 
     return (
         <div className="app">
-            <Main/>
+            <AppRouter />
         </div>
     )
 }
