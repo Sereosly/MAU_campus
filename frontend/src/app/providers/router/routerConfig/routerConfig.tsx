@@ -21,4 +21,7 @@ export const routerConfig = createBrowserRouter([
 			element: <North />
 		},]
 	},
-]);
+
+], {
+	basename: '/MAU_campus/',
+});
