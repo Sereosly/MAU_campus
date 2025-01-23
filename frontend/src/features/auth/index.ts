@@ -1,0 +1,1 @@
+export {AuthForm} from "@/features/auth/ui/Auth";
